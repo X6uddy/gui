@@ -1,0 +1,15 @@
+# виртуальное окружение
+.venv/
+venv/
+env/
+
+# кэш Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
