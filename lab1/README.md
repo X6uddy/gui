@@ -31,8 +31,8 @@
 
 Первый запуск:
 
-![alt text](screens/image.png)
+![alt text](screens/screen_1.jpeg)
 
 После нажатия на кнопку "Показать картинку":
 
-![alt text](screens/image-1.png)
+![alt text](screens/screen_2.jpeg)

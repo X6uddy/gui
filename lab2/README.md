@@ -38,20 +38,16 @@
 
 Первый запуск:
 
-![alt text](screens/image-start.png)
+![alt text](screens/screen_start.jpeg)
 
 После ввода в поле `USD`:
 
-![alt text](screens/image-usd.png)
+![alt text](screens/screen_usd.jpeg)
 
 После ввода в поле `RUB`:
 
-![alt text](screens/image-rub.png)
+![alt text](screens/screen_rub.jpeg)
 
 После ввода в поле `EUR`:
 
-![alt text](screens/image-eur.png)
-
-Проверка ограничения на максимальный ввод:
-
-![alt text](screens/image-valid.png)
+![alt text](screens/screen_euro.jpeg)
